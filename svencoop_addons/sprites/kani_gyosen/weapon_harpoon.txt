@@ -1,0 +1,5 @@
+4
+weapon			320 kani_gyosen/ui1	0	0	170	45
+weapon_s		320 kani_gyosen/ui1	0	45	170	45
+weapon			640 kani_gyosen/ui1	0	0	170	45
+weapon_s		640 kani_gyosen/ui1	0	45	170	45
