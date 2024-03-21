@@ -1,0 +1,5 @@
+"squeek/sqk_deploy1.wav" "uboa_rampage/uboa_h.wav"
+"squeek/sqk_hunt1.wav" "uboa_rampage/uboa_h.wav"
+"squeek/sqk_hunt2.wav" "uboa_rampage/uboa_h.wav"
+"squeek/sqk_hunt3.wav" "uboa_rampage/uboa_h.wav"
+"squeek/sqk_die1.wav" "uboa_rampage/uboa_h.wav"
