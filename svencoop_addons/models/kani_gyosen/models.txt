@@ -1,0 +1,10 @@
+"models/v_medkit.mdl" "models/kani_gyosen/v_medkit.mdl"
+"models/p_medkit.mdl" "models/kani_gyosen/p_medkit.mdl"
+"models/w_pmedkit.mdl" "models/kani_gyosen/w_pmedkit.mdl"
+
+"models/v_bgrap.mdl" "models/kani_gyosen/v_bgrap.mdl"
+"models/p_bgrap.mdl" "models/kani_gyosen/p_bgrap.mdl"
+"models/w_bgrap.mdl" "models/kani_gyosen/w_bgrap.mdl"
+
+"models/w_medkit.mdl" "models/kani_gyosen/w_kanikama.mdl"
+"models/w_battery.mdl" "models/kani_gyosen/w_kanikan.mdl"
