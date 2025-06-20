@@ -1,1 +1,3 @@
-chrome no shitukan wo chousei v1.1 (ﬂÑtﬂ)
+version https://git-lfs.github.com/spec/v1
+oid sha256:d54be4d3b465d9e24dabf9d67939001a6d51946d9dd03cb30b683bc44d9e7992
+size 41

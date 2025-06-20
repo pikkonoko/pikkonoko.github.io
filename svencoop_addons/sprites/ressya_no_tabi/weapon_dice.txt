@@ -1,9 +1,3 @@
-6
-weapon			320 ressya_no_tabi/weapon3	0	0	170	45
-weapon_s		320 ressya_no_tabi/weapon3	0	45	170	45
-ammo			320 ressya_no_tabi/ammoicon2	0	0	24	24
-weapon			640 ressya_no_tabi/weapon3	0	0	170	45
-weapon_s		640 ressya_no_tabi/weapon3	0	45	170	45
-ammo			640 ressya_no_tabi/ammoicon2	0	0	24	24
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:b5a78379c24a9b5fbb78ac6136ed54db97875d9cde1945dfb3fa9b7fa0db8134
+size 297

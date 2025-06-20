@@ -1,8 +1,3 @@
-"models/v_medkit.mdl" "models/uboa_rampage/v_medkit.mdl"
-"models/p_medkit.mdl" "models/uboa_rampage/p_medkit.mdl"
-"models/w_pmedkit.mdl" "models/uboa_rampage/w_pmedkit.mdl"
-
-"models/baby_headcrab.mdl" "models/uboa_rampage/imomushi_mini.mdl"
-
-"models/w_medkit.mdl" "models/uboa_rampage/ripoD.mdl"
-"models/w_battery.mdl" "models/uboa_rampage/akikan.mdl"
+version https://git-lfs.github.com/spec/v1
+oid sha256:40d9e5396f3023b8fff634b147228732d7465242096d144a3a13baf6840c75d9
+size 360

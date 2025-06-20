@@ -1,34 +1,3 @@
-------------------------------------------
- kani_gyosen
-------------------------------------------
-
-KANI NABE TABE TAI.
-(I want to eat a crab pot.)
-
--- Credit ------------------------------------------
-* MODELS (modified)
- - CyroDragon's Blue Shift hands
-   http://forums.svencoop.com/showthread.php/42887-Pack-Blue-Shift-hands-for-Sven-Co-op-5-0
- etc
- 
-* SOUNDS
- - 50cal fun time sound (Killing Floor SDK)
- - AK101
- - MAGIX MUSIC MAKER
-   https://www.magix.com/
- - Soundeffect lab
-   https://soundeffect-lab.info/
- etc
- 
-(thanks all)
-
- ******************************************************
- PLEASE DO NOT REDISTRIBUTE RESOURCE FILE AS MATERIAL. 
- (Rights reserved to the resource author.
-  in particular, sounds and musics.)
- IF YOU WANT TO USE, VISIT AUTHORS SITE FIRST.
- ******************************************************
-
-----------------------------------------------------
-
-by takedeppo.50cal ....(^^;)b yay
+version https://git-lfs.github.com/spec/v1
+oid sha256:f64922dfd82e585ddc25597b38fcb2746732c09ba2df479066934ce8836369b5
+size 951

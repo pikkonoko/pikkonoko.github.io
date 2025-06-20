@@ -1,11 +1,3 @@
-10
-weapon			320 ressya_no_tabi/weapon2	0	90	170	45
-weapon_s		320 ressya_no_tabi/weapon2	0	135	170	45
-ammo			320 ressya_no_tabi/ammoicon	24	0	24	24
-crosshair		320 crosshairs		0	48	24	24
-autoaim			320 crosshairs		48	72	24	24
-weapon			640 ressya_no_tabi/weapon2	0	90	170	45
-weapon_s		640 ressya_no_tabi/weapon2	0	135	170	45
-ammo			640 ressya_no_tabi/ammoicon	24	0	24	24
-crosshair		640 crosshairs		0	48	24	24
-autoaim			640 crosshairs		48	72	24	24
+version https://git-lfs.github.com/spec/v1
+oid sha256:35a2d06f36eab1d6ebca1af95549d7a745d90d067a6ad35b2ee24e5b1691bec5
+size 454

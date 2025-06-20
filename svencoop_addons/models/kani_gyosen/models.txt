@@ -1,10 +1,3 @@
-"models/v_medkit.mdl" "models/kani_gyosen/v_medkit.mdl"
-"models/p_medkit.mdl" "models/kani_gyosen/p_medkit.mdl"
-"models/w_pmedkit.mdl" "models/kani_gyosen/w_pmedkit.mdl"
-
-"models/v_bgrap.mdl" "models/kani_gyosen/v_bgrap.mdl"
-"models/p_bgrap.mdl" "models/kani_gyosen/p_bgrap.mdl"
-"models/w_bgrap.mdl" "models/kani_gyosen/w_bgrap.mdl"
-
-"models/w_medkit.mdl" "models/kani_gyosen/w_kanikama.mdl"
-"models/w_battery.mdl" "models/kani_gyosen/w_kanikan.mdl"
+version https://git-lfs.github.com/spec/v1
+oid sha256:ca3194ffe0667188bab354ea05da00a56d721b077907e0290bd0eb29e5a44baf
+size 460

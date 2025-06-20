@@ -1,5 +1,3 @@
-4
-weapon			320 ressya_no_tabi/weapon1	0	0	170	45
-weapon_s		320 ressya_no_tabi/weapon1	0	45	170	45
-weapon			640 ressya_no_tabi/weapon1	0	0	170	45
-weapon_s		640 ressya_no_tabi/weapon1	0	45	170	45
+version https://git-lfs.github.com/spec/v1
+oid sha256:82e5ac04e1a45c978bb0d7ab44fb2b0eff2e8881a76adc33ab1be37c308cb204
+size 199

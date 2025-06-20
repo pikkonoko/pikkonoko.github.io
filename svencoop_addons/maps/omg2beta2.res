@@ -1,18 +1,3 @@
-sound/omg/start.wav
-sound/omg/sky.wav
-sound/omg/picard.wav
-sound/omg/gb2.wav
-sound/tur/twospaces.wav
-models/turr/name.mdl
-models/turr/turr.mdl
-models/turr/snowball.mdl
-models/player/slidje/slidje.mdl
-gfx/env/approach_bk.tga
-gfx/env/approach_dn.tga
-gfx/env/approach_ft.tga
-gfx/env/approach_lf.tga
-gfx/env/approach_rt.tga
-gfx/env/approach_up.tga
-maps/omg2beta2.res
-maps/omg2beta2_motd.txt
-maps/omg2beta2.txt
+version https://git-lfs.github.com/spec/v1
+oid sha256:2016b2c74fbc60783e534b1aafcb5eaf0afa9d495b56593ff9e8dd9307375594
+size 422

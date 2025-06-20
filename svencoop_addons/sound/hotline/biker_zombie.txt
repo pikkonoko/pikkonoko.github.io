@@ -1,17 +1,3 @@
-"zombie/zo_alert10.wav" "null.wav"
-"zombie/zo_alert20.wav" "null.wav"
-"zombie/zo_alert30.wav" "null.wav"
-"zombie/zo_attack1.wav" "null.wav"
-"zombie/zo_attack2.wav" "null.wav"
-"zombie/zo_idle1.wav" "null.wav"
-"zombie/zo_idle2.wav" "null.wav"
-"zombie/zo_idle3.wav" "null.wav"
-"zombie/zo_idle4.wav" "null.wav"
-"zombie/zo_pain1.wav" "null.wav"
-"zombie/zo_pain2.wav" "null.wav"
-
-"zombie/zo_claw_miss1.wav" "weapons/knife1.wav"
-"zombie/zo_claw_miss2.wav" "weapons/knife3.wav"
-"zombie/zo_claw_strike1.wav" "weapons/knife_hit_flesh1.wav"
-"zombie/zo_claw_strike2.wav" "weapons/knife_hit_flesh2.wav"
-"zombie/zo_claw_strike3.wav" "weapons/knife_hit_flesh1.wav"
+version https://git-lfs.github.com/spec/v1
+oid sha256:a64e8434d6c2a185404ba15fa3768e14c8f963105691534dccb6d890ef24ce2b
+size 665

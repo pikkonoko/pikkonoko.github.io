@@ -1,7 +1,3 @@
-6
-weapon			320 uboa_rampage/uboa_weapon1	0	0	170	45
-weapon_s		320 uboa_rampage/uboa_weapon1	00	45	170	45
-ammo			320 uboa_rampage/ammoicon		0	24	24	24
-weapon			640 uboa_rampage/uboa_weapon1	0	0	170	45
-weapon_s		640 uboa_rampage/uboa_weapon1	0	45	170	45
-ammo			640 uboa_rampage/ammoicon		0	24	24	24
+version https://git-lfs.github.com/spec/v1
+oid sha256:e8c37a8c90813a0a00b9e8a32478aa437c8ba53085f73c47d9b5ea8194e7d50f
+size 304

@@ -1,6 +1,3 @@
-"models/v_medkit.mdl" "models/ressya_no_tabi/v_medkit.mdl"
-"models/p_medkit.mdl" "models/ressya_no_tabi/p_medkit.mdl"
-"models/w_pmedkit.mdl" "models/ressya_no_tabi/w_pmedkit.mdl"
-
-"models/w_medkit.mdl" "models/ressya_no_tabi/katsusand.mdl"
-"models/w_battery.mdl" "models/ressya_no_tabi/superdry.mdl"
+version https://git-lfs.github.com/spec/v1
+oid sha256:66fec450ed873815e877c682aa472344b24e02c3362cac126c4f69f3b8e8bdc9
+size 306

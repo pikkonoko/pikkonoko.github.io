@@ -1,2 +1,3 @@
-"speech/saveme1.wav" "uboa_rampage/sunaa.wav"
-"speech/grenade1.wav" "uboa_rampage/dareda.wav"
+version https://git-lfs.github.com/spec/v1
+oid sha256:880c442ee583666853f51c71c14ef2a7dccd5e1d15169b40fc0c73a54f844579
+size 96

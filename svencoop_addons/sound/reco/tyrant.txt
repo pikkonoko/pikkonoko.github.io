@@ -1,15 +1,3 @@
-"gonome/gonome_death2.wav" "tyrant/role7_die2.wav" 
-"gonome/gonome_death3.wav" "tyrant/role7_die3.wav" 
-"gonome/gonome_death4.wav" "tyrant/role7_die4.wav" 
-"gonome/gonome_idle1.wav" "tyrant/role4_idle1.wav" 
-"gonome/gonome_idle2.wav" "tyrant/role4_idle2.wav" 
-"gonome/gonome_idle3.wav" "tyrant/role4_idle3.wav" 
-"gonome/gonome_jumpattack.wav" "tyrant/primalscreaming.wav" 
-"gonome/gonome_melee1.wav" "null.wav" 
-"gonome/gonome_melee2.wav" "tyrant/role7_spawn1.wav" 
-"gonome/gonome_gonome_pain1.wav" "tyrant/role7_wound1.wav" 
-"gonome/gonome_gonome_pain2.wav" "null.wav" 
-"gonome/gonome_gonome_pain3.wav" "tyrant/role7_wound1.wav" 
-"gonome/gonome_gonome_pain4.wav" "null.wav" 
-"gonome/gonome_run.wav" "null.wav" 
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:afb7ac6da0c14f8affe091df7d6d6544eecfbf0a6d50f021af94afffd5ad52a4
+size 728

@@ -1,10 +1,3 @@
-// Created with resguy v9 (September 2018)
-// https://github.com/wootguy/resguy
-
-hotline.wad
-models/hotline/bulb.mdl
-models/hotline/enm/gang_bgman.mdl
-models/hotline/enm/gang_nm.mdl
-sound/hotline/htl_clear.ogg
-sound/hotline/htl_deepcover.ogg
-sound/hotline/htl_dududu.ogg
+version https://git-lfs.github.com/spec/v1
+oid sha256:02f205ca6131ccb495a954cac0ee43f7711d5c6982404ee47b1121ceee681e40
+size 281

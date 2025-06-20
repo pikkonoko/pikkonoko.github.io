@@ -1,14 +1,3 @@
-// Created with resguy v9 (September 2018)
-// https://github.com/wootguy/resguy
-
-hotline.wad
-models/hotline/enm/biker_new.mdl
-models/hotline/enm/gang_bgman.mdl
-models/hotline/enm/gang_nm.mdl
-models/hotline/fern.mdl
-models/hotline/voodoo.mdl
-sound/hotline/htl_beep.ogg
-sound/hotline/htl_release.ogg
-sprites/hotline/htl_blu.spr
-sprites/hotline/htl_lowdown.spr
-sprites/hotline/htl_red.spr
+version https://git-lfs.github.com/spec/v1
+oid sha256:24408a5b58fec74fdf9393285b2fe8e2b5f3168f0a323967f7e15ce818c2f9cf
+size 400

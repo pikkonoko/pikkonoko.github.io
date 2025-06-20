@@ -1,16 +1,3 @@
-// Created with resguy v9 (September 2018)
-// https://github.com/wootguy/resguy
-
-hotline.wad
-models/hotline/boxville.mdl
-models/hotline/bulb.mdl
-models/hotline/enm/gang_bgman.mdl
-models/hotline/enm/gang_nm.mdl
-models/hotline/fern.mdl
-models/hotline/voodoo.mdl
-sound/hotline/htl_clear.ogg
-sound/hotline/htl_deepcover.ogg
-sound/hotline/htl_dududu.ogg
-sound/hotline/htl_hotline.ogg
-sprites/hotline/htl_attack.spr
-sprites/hotline/htl_light.spr
+version https://git-lfs.github.com/spec/v1
+oid sha256:7c737a1f4ae7d7444b5c722750aab6f6238939a41e6cc77aff7da4fddca4bbb6
+size 456

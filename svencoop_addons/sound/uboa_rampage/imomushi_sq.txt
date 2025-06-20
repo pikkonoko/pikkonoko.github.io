@@ -1,5 +1,3 @@
-"squeek/sqk_deploy1.wav" "uboa_rampage/uboa_h.wav"
-"squeek/sqk_hunt1.wav" "uboa_rampage/uboa_h.wav"
-"squeek/sqk_hunt2.wav" "uboa_rampage/uboa_h.wav"
-"squeek/sqk_hunt3.wav" "uboa_rampage/uboa_h.wav"
-"squeek/sqk_die1.wav" "uboa_rampage/uboa_h.wav"
+version https://git-lfs.github.com/spec/v1
+oid sha256:3281cccfce88257dfe717cffd6048c20951ac158d58e01061cb5d91c8c661650
+size 251
